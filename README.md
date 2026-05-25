@@ -1,2 +1,2 @@
-# Тестирование веб-магазина
+# Webshop testing
 https://intern.demoshopping.ru/
